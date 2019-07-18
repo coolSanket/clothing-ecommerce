@@ -1,8 +1,7 @@
 import React from "react";
 import "./App.css";
-
-import "./homepage.compenent";
-import HomePage from "./homepage.compenent";
+import Directory from ".//components/menu-item/menu-item.components";
+import HomePage from "../src/pages/homepage/homepage.compenent";
 
 function App() {
   return (
