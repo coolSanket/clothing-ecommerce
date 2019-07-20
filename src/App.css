@@ -1,5 +1,10 @@
 body {
   font-family: 'Open Sans Condensed';
   /* font-family: 'Operator Mono'; */
-  padding: 20px 60px;
+  padding: 20px 50px; /* Add Padding */
+}
+
+a {
+  text-decoration: none;
+  color: black;
 }
